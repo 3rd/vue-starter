@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "search.exclude": {
+    "node_modules": true,
+    ".cache": true,
+    "dist": true
+  }
+}
